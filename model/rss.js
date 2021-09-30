@@ -22,7 +22,7 @@ const rss = {
       name: undefined,
     },
   ],
-  image: {
+  media: {
     url: undefined,
     title: undefined,
     description: undefined,
@@ -67,7 +67,7 @@ const rss = {
         },
       ],
       id: undefined,
-      imageUrl: undefined,
+      media:thumbnail: undefined,
       description: undefined,
       content: undefined,
       categories: [
