@@ -46,7 +46,7 @@ const rss = {
         ],
       },
     ],
-    image: undefined,
+    media: undefined,
     explicit: undefined,
     complete: undefined,
     newFeedUrl: undefined,
